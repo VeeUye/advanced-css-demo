@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Natours/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/final-after-S06/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/final-after-S06/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nexter/final/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nexter/final/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nexter/starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nexter/starter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trillo/starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trillo/starter/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
       <workItem from="1658476339764" duration="124000" />
       <workItem from="1658675963333" duration="270000" />
       <workItem from="1658742801603" duration="7662000" />
-      <workItem from="1658826149593" duration="1789000" />
+      <workItem from="1658826149593" duration="3126000" />
     </task>
     <servers />
   </component>
