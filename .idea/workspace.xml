@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Natours/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CAVkNlUekHnK3K9y4T7lkLQhl6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,12 +56,24 @@
       <workItem from="1658401702744" duration="10271000" />
       <workItem from="1658476339764" duration="124000" />
       <workItem from="1658675963333" duration="270000" />
-      <workItem from="1658742801603" duration="6646000" />
+      <workItem from="1658742801603" duration="7662000" />
+      <workItem from="1658826149593" duration="1789000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
