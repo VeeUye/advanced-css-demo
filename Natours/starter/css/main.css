@@ -35,17 +35,14 @@ body {
   position: relative;
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
-
 .header__logo-box {
   position: absolute;
   top: 4rem;
   left: 4rem;
 }
-
 .header__logo {
   height: 3.5rem;
 }
-
 .header__text-box {
   position: absolute;
   top: 40%;
@@ -60,7 +57,6 @@ body {
   backface-visibility: hidden;
   margin-bottom: 6rem;
 }
-
 .heading-primary--main {
   display: block;
   font-size: 6rem;
@@ -68,8 +64,7 @@ body {
   letter-spacing: 3.6rem;
   animation: moveInLeft 1s ease-out;
 }
-
-.heading-primary--sub {
+.heading-primary-primary--sub {
   display: block;
   font-size: 2rem;
   font-weight: 700;
