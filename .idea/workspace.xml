@@ -2,13 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/prettier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/bin-prettier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/doc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-angular.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-babel.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-espree.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-flow.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-glimmer.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-graphql.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-html.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-markdown.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-meriyah.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-postcss.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-typescript.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/parser-yaml.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/esm/standalone.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-babel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-espree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-glimmer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-graphql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-meriyah.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-postcss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/parser-yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/standalone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prettier/third-party.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/layout/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +75,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;NewWatcherDialog.advanced.open&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/veeuye/Projects/advanced-css-course&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "NewWatcherDialog.advanced.open": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/veeuye/Projects/advanced-css-course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/veeuye/Projects/advanced-css-course/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/advanced-css-course/Natours/starter/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -84,7 +127,8 @@
       <workItem from="1658912915398" duration="662000" />
       <workItem from="1658930536170" duration="1605000" />
       <workItem from="1659605736670" duration="9385000" />
-      <workItem from="1659620088211" duration="1854000" />
+      <workItem from="1659620088211" duration="5234000" />
+      <workItem from="1659625482644" duration="1429000" />
     </task>
     <servers />
   </component>
