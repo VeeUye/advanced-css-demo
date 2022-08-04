@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_utilities.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
@@ -70,7 +74,7 @@
       <workItem from="1658865265853" duration="4530000" />
       <workItem from="1658912915398" duration="662000" />
       <workItem from="1658930536170" duration="1605000" />
-      <workItem from="1659605736670" duration="1527000" />
+      <workItem from="1659605736670" duration="3963000" />
     </task>
     <servers />
   </component>
