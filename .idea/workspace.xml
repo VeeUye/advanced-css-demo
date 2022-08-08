@@ -6,9 +6,7 @@
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +88,7 @@
       <workItem from="1659703670381" duration="70000" />
       <workItem from="1659951376145" duration="104000" />
       <workItem from="1659952215693" duration="289000" />
-      <workItem from="1659966093663" duration="1749000" />
+      <workItem from="1659966093663" duration="4770000" />
     </task>
     <servers />
   </component>
