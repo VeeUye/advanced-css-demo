@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +95,7 @@
       <workItem from="1659952215693" duration="289000" />
       <workItem from="1659966093663" duration="7068000" />
       <workItem from="1660035438390" duration="6928000" />
-      <workItem from="1660049768936" duration="7889000" />
+      <workItem from="1660049768936" duration="10175000" />
     </task>
     <servers />
   </component>
