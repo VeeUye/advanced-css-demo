@@ -4,11 +4,7 @@
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/components/_feature-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/components/_feature-box.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +93,7 @@
       <workItem from="1659952215693" duration="289000" />
       <workItem from="1659966093663" duration="7068000" />
       <workItem from="1660035438390" duration="6928000" />
-      <workItem from="1660049768936" duration="3414000" />
+      <workItem from="1660049768936" duration="3860000" />
     </task>
     <servers />
   </component>
