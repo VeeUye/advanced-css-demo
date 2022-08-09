@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +95,7 @@
       <workItem from="1659951376145" duration="104000" />
       <workItem from="1659952215693" duration="289000" />
       <workItem from="1659966093663" duration="7068000" />
-      <workItem from="1660035438390" duration="4282000" />
+      <workItem from="1660035438390" duration="6424000" />
     </task>
     <servers />
   </component>

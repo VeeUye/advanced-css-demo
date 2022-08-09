@@ -190,6 +190,20 @@ body {
   transform: translateY(0px);
 }
 
+.card {
+  perspective: 150rem;
+}
+.card__side {
+  background-color: orangered;
+  color: white;
+  font-size: 2rem;
+  height: 50rem;
+  transition: all 0.8s;
+}
+.card:hover .card__side {
+  transform: rotateY(180deg);
+}
+
 .composition {
   position: relative;
 }
@@ -322,6 +336,12 @@ body {
 }
 .section-features > * {
   transform: skewY(7deg);
+}
+
+.section-tours {
+  background-color: #f7f7f7;
+  padding: 25rem 0 50rem 0;
+  margin-top: -10rem;
 }
 
 /*# sourceMappingURL=main.css.map */
