@@ -21,11 +21,21 @@
     overflow: hidden;
     transform: translate(-50%, -50%) scale(0.25);
     transition: all 0.5s 0.2s;
+
+    @include respond(tab-land) {
+      display: block;
+    }
   }
 
   &__left {
     width: 33.33333333%;
     display: table-cell;
+
+    @include respond(tab-land) {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
   }
 
   &__right {
@@ -33,11 +43,23 @@
     display: table-cell;
     vertical-align: middle;
     padding: 3rem 5rem;
+
+    @include respond(tab-land) {
+      display: block;
+      width: 100%;
+      text-align: center;
+    }
   }
 
   &__img {
     display: block;
     width: 100%;
+
+    @include respond(tab-land) {
+      display: inline-block;
+      width: 49%;
+      transform: scale(1.1);
+    }
   }
 
   &__text {
@@ -47,6 +69,10 @@
     column-gap: 4rem;
     column-rule: 1px solid $color-grey-light-2;
     hyphens: auto;
+
+    @include respond(tab-land) {
+      column-count: unset;
+    }
   }
 
   // Open states
