@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/final-after-S06/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/final-after-S06/sass/pages/_home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/scss/components/_card.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +41,14 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/veeuye/Projects/advanced-css-course",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.stylelint": "",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/veeuye/Projects/advanced-css-course/node_modules/prettier",
-    "settings.editor.selected.configurable": "reference.idesettings.emmet.xml",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,7 +98,17 @@
       <workItem from="1659952215693" duration="289000" />
       <workItem from="1659966093663" duration="7068000" />
       <workItem from="1660035438390" duration="6928000" />
-      <workItem from="1660049768936" duration="10175000" />
+      <workItem from="1660049768936" duration="10748000" />
+      <workItem from="1660831343980" duration="8530000" />
+      <workItem from="1661154303271" duration="3218000" />
+      <workItem from="1661165072983" duration="1559000" />
+      <workItem from="1661332978905" duration="749000" />
+      <workItem from="1661333963191" duration="411000" />
+      <workItem from="1661334384857" duration="420000" />
+      <workItem from="1661334815368" duration="492000" />
+      <workItem from="1661335317711" duration="15694000" />
+      <workItem from="1661419573232" duration="2314000" />
+      <workItem from="1662116409436" duration="32024000" />
     </task>
     <servers />
   </component>
