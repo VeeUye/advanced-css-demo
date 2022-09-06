@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "concat:css": "concat -o starter/css/style.concat.css starter/css/icon-font.css starter/css/main.css",
-    "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' starter/css/style.concat.css -o  starter/css/style.prefix.css",
-    "compress:css": "postcss starter/css/style.prefix.css > starter/css/style.css",
-    "build:css": "npm-run-all concat:css prefix:css compress:css"
+    "concat:css": "../node_modules/.bin/concat -o starter/css/style.concat.css starter/css/icon-font.css starter/css/main.css",
+    "prefix:css": "../node_modules/.bin/postcss --use autoprefixer -b 'last 10 versions' starter/css/style.concat.css -o  starter/css/style.prefix.css",
+    "compress:css": "../node_modules/.bin/postcss starter/css/style.prefix.css > starter/css/style.css",
+    "build:css": "../node_modules/.bin/npm-run-all concat:css prefix:css compress:css"
   },
   "author": "",
   "license": "ISC",
