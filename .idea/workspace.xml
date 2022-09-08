@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c47196f0-ff9b-4428-8d67-de257130c186" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/img/nat-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/img/nat-9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -118,7 +114,8 @@
       <workItem from="1661419573232" duration="2314000" />
       <workItem from="1662116409436" duration="38001000" />
       <workItem from="1662458638693" duration="12075000" />
-      <workItem from="1662476481469" duration="3540000" />
+      <workItem from="1662476481469" duration="3954000" />
+      <workItem from="1662628586532" duration="1619000" />
     </task>
     <servers />
   </component>

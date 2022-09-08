@@ -30,7 +30,9 @@ To create a landing page for a fictional company offering tours in nature.
 
 ## View project on GitHub Pages
 
+## Known Issues
 
+Story card images not appearing in Chrome
 
 ## Acknowledgements
 
@@ -38,4 +40,4 @@ To create a landing page for a fictional company offering tours in nature.
 
 ## Project Status
 
-Complete
+In progress
