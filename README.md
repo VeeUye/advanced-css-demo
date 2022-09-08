@@ -11,12 +11,12 @@ This website was built during my completion of Jonas Schmedtmann's [Advanced CSS
 
 ## The Brief
 
-To create a landing page for a fictional company offering tours in nature.
+To create a pure HTML/CSS landing page for a fictional company offering tours in nature.
 
 ## Learning Concepts
 
-- responsive design, mobile vs desktop first design
-- performance
+- Responsive design, mobile vs desktop first design
+- Performance
 - BEM methodology
 - CSS architecture: 7-1 pattern
 - Sass: variables, nesting, mixins, operators, partials and imports, functions
@@ -30,9 +30,10 @@ To create a landing page for a fictional company offering tours in nature.
 
 ## View project on GitHub Pages
 
-## Known Issues
+You can view this project on GitHub Pages by visiting
 
-Story card images not appearing in Chrome
+[https://veeuye.github.io/advanced-css-course/](https://veeuye.github.io/advanced-css-course) 
+
 
 ## Acknowledgements
 
@@ -40,4 +41,4 @@ Story card images not appearing in Chrome
 
 ## Project Status
 
-In progress
+Complete
